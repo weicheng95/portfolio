@@ -1,0 +1,29 @@
+{
+  "name": "responsive-portfolio",
+  "description": "a responsive portfolio website",
+  "main": "index.html",
+  "keywords": [
+    "responsive",
+    "bootstrap",
+    "portfolio"
+  ],
+  "authors": [
+    "(weicheng <weicheng0324094@gmaill.com>)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.4",
+    "jasny-bootstrap": "^3.1.3",
+    "Ionicons": "ionicons#^2.0.1",
+    "html5shiv": "^3.7.3"
+  }
+}
